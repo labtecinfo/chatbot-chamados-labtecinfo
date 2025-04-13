@@ -1,4 +1,4 @@
-![Capa do Projeto](thumbnail_chatbot_de_abertura_de_chamados.png)
+![Capa do Projeto](thumbnail_chatbot_de_chamados_clean.png)
 
 # 🤖 Projeto: Chatbot de Abertura de Chamados – LabTecInfo
 
