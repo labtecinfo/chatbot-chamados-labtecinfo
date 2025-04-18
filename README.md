@@ -56,21 +56,18 @@ Estudante de Inteligência Artificial - UNIFAEL
 ---
 
 ## 📁 Estrutura do Projeto
-📦 chatbot-chamados-labtecinfo
-├── chatbot_colab.ipynb         # Versão em Python via Google Colab
-├── script_telegram.gs          # Versão alternativa em Google Apps Script
-├── README.md                   # Documentação do projeto
-└── imagens/                    # Miniaturas e identidade visual
+## 📁 Estrutura do Projeto
 
-> 🚧 *Projeto em evolução. Próximos passos: aprimorar ramais, categorias dinâmicas, salvar logs e estatísticas.*>---
+📦 chatbot-chamados-labtecinfo  
+├── chatbot_colab.ipynb         # Versão em Python via Google Colab  
+├── script_telegram.gs          # Versão alternativa em Google Apps Script  
+├── README.md                   # Documentação do projeto  
+└── imagens/                    # Miniaturas e identidade visual  
 
 ---
 
-## 🔧 Melhorias Futuras
-- Interface gráfica com Streamlit
-- Integração com planilhas Google ou banco de dados
-- Envio de confirmação por e-mail
-- Dashboard de visualização dos chamados
+> 🚧 *Projeto em evolução. Próximos passos: aprimorar ramais, categorias dinâmicas, salvar logs e estatísticas.*
+
 
 ---
 
